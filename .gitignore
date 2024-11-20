@@ -1,0 +1,14 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EventTrackerApplication/bin/Debug/net8.0
+/EventTrackerApplication/obj
+/EventTrackerCore/bin/Debug/net8.0
+/EventTrackerCore/obj
+/EventTrackerDAL/bin/Debug/net8.0
+/EventTrackerDAL/obj
+/EventTrackerSystem/bin/Debug/net8.0
+/EventTrackerSystem/obj
+/EventTrackerSystem/wwwroot/lib
